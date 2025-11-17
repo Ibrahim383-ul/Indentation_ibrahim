@@ -20,7 +20,7 @@ int potPins[]={A3,A4};
 
 int tempSensor=A5;
 
-int lightSensor=A6;
+float lightSensor=A6;// von Ibrahim
 
 int buzzer=11;
 
