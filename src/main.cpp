@@ -18,7 +18,7 @@ int buttonPins[]={A0,A1,A2};
 
 int potPins[]={A3,A4};
 
-int tempSensor=A5;
+float tempSensor=A5;  // von Stefan geändert
 
 int lightSensor=A6;
 
