@@ -30,9 +30,9 @@ int servo2Pin=13;
 
 int numLeds=8;
 
-int numButtons=3;
+int buttons=3;  //  hier
 
-int numPots=2;
+int Pots=2;   //  hier und 
 
 int lastButtonState[]={0,0,0};
 
