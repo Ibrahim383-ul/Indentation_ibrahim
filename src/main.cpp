@@ -30,9 +30,13 @@ int servo2Pin=13;
 
 int NumLeds=8;// Ibrahim
 
+<<<<<<< HEAD
 int NumButtons=3; // ibbrahim
+=======
+int buttons=3;  //  hier
+>>>>>>> 4c8f0349acb6f81c3aa6977a96df1692568b4be8
 
-int numPots=2;
+int Pots=2;   //  hier und 
 
 int lastButtonState[]={0,0,0};
 
