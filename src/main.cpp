@@ -28,9 +28,9 @@ int servo1Pin=12;
 
 int servo2Pin=13;
 
-int numLeds=8;
+int NumLeds=8;// Ibrahim
 
-int numButtons=3;
+int NumButtons=3; // ibbrahim
 
 int numPots=2;
 
